@@ -4,7 +4,7 @@
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=450&lines=Currently+learning+Java;Exploring+Full-stack+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=450&lines=Currently+learning+Java;Exploring+Full-stack+Projects" alt=" " />
 </p>
 
 <!-- Tech stack badges -->

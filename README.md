@@ -4,7 +4,7 @@
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=450&lines=Currently+learning+Spring+Boot;Practicing+DSA+daily;Exploring+Full-stack+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=450&lines=Currently+learning+Java;Exploring+Full-stack+Projects" alt="Typing SVG" />
 </p>
 
 <!-- Tech stack badges -->
@@ -15,17 +15,20 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+<br>
+<br>
+
 
 <!-- GitHub stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashrayasjp&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrayasjp&layout=compact&theme=radical" height="170"/>
 </p>
-
+<br><br>
 <!-- Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ashrayasjp&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+</p><br>
 
 <!-- Projects -->
 ## 🚀 Featured Projects
@@ -39,15 +42,22 @@
 > A full-stack catering web app with login/signup, caterer verification, menu system, and file uploads.
 
 🔗 [Ahaar Repository](https://github.com/ashrayasjp/ahaar)
+<br><br>
+## 🎬 Cinematography Website
+📌 **Built With:**  
+<img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />  
+<img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />  
+<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+
+> A website showcasing the cinematography of renowned film directors of all time
+
+🔗 [Cinematography Repository](https://github.com/ashrayasjp/cinematography)
 
 ---
-
-## 🌆 GitHub Skyline  
-[3D Contribution Skyline](https://skyline.github.com/ashrayasjp)
-
----
-
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashraya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashraya-sjp/)  
-[![Gmail](https://img.shields.io/badge/Gmail-ashraya.email-red?style=flat&logo=gmail)](ashrayasjp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashraya-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&height=40)](https://www.linkedin.com/in/ashraya-sijapati-b8417475/)  
+
+[![Gmail](https://img.shields.io/badge/Gmail-ashrayasjp@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&height=40)](mailto:ashrayasjp@gmail.com)
+
+

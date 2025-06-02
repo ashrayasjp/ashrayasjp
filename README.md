@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 > A full-stack catering web app with login/signup, caterer verification, menu system, and file uploads.
 
-🔗 [Ahaar Repository](https://github.com/ashrayasjp/cateringapp)
+🔗 [Ahaar Repository](https://github.com/ashrayasjp/ahaarfullstack)
 <br><br>
 ## 🎬 Cinematography Website
 📌 **Built With:**  

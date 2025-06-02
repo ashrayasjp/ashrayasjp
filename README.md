@@ -28,9 +28,9 @@
 </p>
 
 <!-- Projects -->
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🍽️ Ahaar - Online Catering System
+## 🍽️ Ahaar - Online Catering System
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?logo=react)
@@ -45,6 +45,6 @@
 [3D Contributions](https://skyline.github.com/ashrayasjp)
 
 <!-- Connect -->
-### 📫 Let's Connect
+## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashraya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashraya-sijapati-b8417475/)
 [![Gmail](https://img.shields.io/badge/Gmail-ashraya.email-red?style=flat&logo=gmail)](mailto:ashrayasjpgmail.com)

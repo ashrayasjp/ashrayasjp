@@ -22,8 +22,9 @@
 
 <!-- GitHub stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrayasjp&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrayasjp&layout=compact&theme=radical" height="170"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=ashrayasjp&show_icons=true&theme=radical&cache_seconds=1800&v=1" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrayasjp&layout=compact&theme=radical&cache_seconds=1800&v=1" height="170"/>
+
 </p>
 <br><br>
 <!-- Trophy -->

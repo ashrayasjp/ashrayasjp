@@ -45,14 +45,7 @@
 
 🔗 [Ahaar Repository](https://github.com/ashrayasjp/ahaarfullstack)
 <br><br>
-## 🎬 Cinematography Website
-📌 **Built With:**  
-<img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-> A website showcasing the cinematography of renowned film directors of all time
 
-🔗 [Cinematography Repository](https://github.com/ashrayasjp/cinematography)
 
 ---
 ## 📫 Let's Connect

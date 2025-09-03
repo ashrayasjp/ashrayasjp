@@ -35,6 +35,18 @@
 <!-- Projects -->
 ## 🚀 Featured Projects
 
+### 🎬 Movie Diary System
+📌 **Built With:**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+> A full-stack Movie Diary web app that allows users to log movies, save reviews, track favorites, and manage user authentication with role-based access.  
+
+🔗 [View Repository](https://github.com/ashrayasjp/MovieDiarySystem)
+
+---
+
 ### 🍽️ Ahaar - Online Catering System
 📌 **Built With:**  
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -46,17 +58,8 @@
 
 🔗 [View Repository](https://github.com/ashrayasjp/ahaarfullstack)
 
----
 
-### 🎬 Movie Diary System
-📌 **Built With:**  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
-> A full-stack Movie Diary web app that allows users to log movies, save reviews, track favorites, and manage user authentication with role-based access.  
-
-🔗 [View Repository](https://github.com/ashrayasjp/MovieDiarySystem)
 
 ---
 ## 📫 Let's Connect

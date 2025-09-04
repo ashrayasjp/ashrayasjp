@@ -43,7 +43,7 @@
 
 > A full-stack Movie Diary web app that allows users to log movies, save reviews, track favorites, and manage user authentication with role-based access.  
 
-🔗 [View Repository](https://github.com/ashrayasjp/MovieDiarySystem)
+🔗 [View Repository](https://github.com/ashrayasjp/movieApp)
 
 ---
 

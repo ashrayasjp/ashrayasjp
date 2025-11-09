@@ -58,6 +58,18 @@
 
 🔗 [View Repository](https://github.com/ashrayasjp/ahaarfullstack)
 
+---
+
+### 🍽️  Online Dental Management System
+📌 **Built With:**  
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+> A web-based Dental Clinic Management System (DCMS) built with Django and SQLite, featuring appointment scheduling, patient and doctor management, treatment tracking, and automated notifications.
+
+🔗 [View Repository](https://github.com/ashrayasjp/dentalclinicms)
 
 
 
